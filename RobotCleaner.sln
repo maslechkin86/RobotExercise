@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCleaner.BusinessLogic", "RobotCleaner.BusinessLogic\RobotCleaner.BusinessLogic.csproj", "{7ED745E2-CAA8-4417-81E8-644C85F8EE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCleaner.BusinessLogic.Tests", "RobotCleaner.BusinessLogic.Tests\RobotCleaner.BusinessLogic.Tests.csproj", "{84EF7B94-CE10-4B57-BC02-87234C41F1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotCleaner.Console", "RobotCleaner.Console\RobotCleaner.Console.csproj", "{116FD69D-AE3D-472F-8CF8-78ABCDDCA359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED745E2-CAA8-4417-81E8-644C85F8EE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED745E2-CAA8-4417-81E8-644C85F8EE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED745E2-CAA8-4417-81E8-644C85F8EE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED745E2-CAA8-4417-81E8-644C85F8EE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EF7B94-CE10-4B57-BC02-87234C41F1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EF7B94-CE10-4B57-BC02-87234C41F1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EF7B94-CE10-4B57-BC02-87234C41F1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EF7B94-CE10-4B57-BC02-87234C41F1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116FD69D-AE3D-472F-8CF8-78ABCDDCA359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116FD69D-AE3D-472F-8CF8-78ABCDDCA359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116FD69D-AE3D-472F-8CF8-78ABCDDCA359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116FD69D-AE3D-472F-8CF8-78ABCDDCA359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BB83B5-FCDC-4E05-BC2C-CB80B8CC0928}
+	EndGlobalSection
+EndGlobal
